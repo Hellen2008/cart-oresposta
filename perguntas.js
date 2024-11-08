@@ -21,7 +21,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Sociologia',
+    ' O que são instituições sociais?',
+    'Instituições sociais são estruturas organizadas que desempenham funções essenciais na sociedade, como a família, a educação, a religião e o governo.
+
+'
 )

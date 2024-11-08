@@ -14,8 +14,10 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é uma variável em programação?',
+    ' Uma variável é um espaço na memória do computador onde podemos armazenar valores temporários, como números ou texto, para serem usados durante a execução do programa.
+
+'
 )
 
 criaCartao(
